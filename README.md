@@ -4,7 +4,7 @@
 
 ![img](https://hermes.digitalinnovation.one/tracks/90d89c5e-330e-4316-85af-e6d629677f68.png)
 
-### O workshop vai acontecer entre os dias 01 e 08 de Junho voltados para as seguintes técnologias ↓
+### São 93 hrs de bootcamp voltados para as seguintes técnologias ↓
 ####   I   - Princípios de Desenvolvimento de Software
 ####   II  - Dominando a Linguagem de Programação Java
 ####   III - Bancos de Dados Relacionais (SQL)
