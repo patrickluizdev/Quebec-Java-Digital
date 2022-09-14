@@ -1,1 +1,1 @@
-# Qu-bec-Java-Digital
+# Qubec-Java-Digital
